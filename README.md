@@ -1,4 +1,6 @@
-# Pinto_Casino_Intro
+# Pinto_Casino
+
+#Project_Description
 
 My (serious) first programming project, that was conducted in the programming language Python. The "Pinto Casino" program includes the games "Slot Machine" & "Blackjack".
 I had that project done before the Data Structures and Algorithms course, therefore the program does not reflect code efficiency rules.
